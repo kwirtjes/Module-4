@@ -10,3 +10,5 @@ Update made to address GitHub issue.
 Issue has been resolved.
 
 Chapter 11 branch update.
+
+Exercise 2 branch change.

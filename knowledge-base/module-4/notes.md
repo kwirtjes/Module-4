@@ -12,3 +12,5 @@ Issue has been resolved.
 Chapter 11 branch update.
 
 Exercise 2 branch change.
+
+Exersice 2 video redo branch update.
